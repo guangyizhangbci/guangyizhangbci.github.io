@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>Room 706, 19 Union St, Queen's University</p>
-    <p>Kingston,ON,K7L3N9</p>
+    <p>Kingston, ON, K7L 3N9</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
