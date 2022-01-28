@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+<--subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.-->
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>706</p>
-    <p>19 Union St</p>
+    <p>Room 706, 19 Union St, Queen's University</p>
     <p>Kingston,ON,K7L3N9</p>
 
 news: true  # includes a list of news items
