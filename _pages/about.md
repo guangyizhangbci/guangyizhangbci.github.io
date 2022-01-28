@@ -4,7 +4,7 @@ title: about
 permalink: /
 
 profile:
-  align: right
+  align: center
   image: prof_pic.jpg
   address: >
     <p>Room 706, 19 Union St, Queen's University</p>
