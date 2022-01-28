@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
-inline: false
+date: 2021-04-16 17:59:00-0400
+inline: true
 ---
+
 Our paper on deep recurrent semi-supervised EEG representation learning for emotion recognition to ACII'21!
