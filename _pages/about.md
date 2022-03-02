@@ -20,6 +20,6 @@ Hello! I am a 4th-year Ph.D. student in the Department of Electrical and Compute
 It is my honour to work under the supervision of [Prof. Ali Etemad, Ph.D.](https://www.aiimlab.com/director). My current research interests lie in the area of electroencephalography, brain computer interface (BCI), deep learning, semi-supervised learning and riemannian geometry. During the first 3 years of my PhD research, I **first authored** 8 papers (5 accepted, 3 journal submissions under review at IEEE Transactions) with more than 100 citations. For more publication information, please visit my [Google Scholar Profile](https://scholar.google.ca/citations?user=ITguoVwAAAAJ&hl=en&oi=ao).
 I have also been a reviewer of top-tier AI and EEG venues such as IEEE T-Cyb, IEEE T-AI, IEEE T-NSRE, Pattern Recognit. (Elsevier), ICPR, ACII, SMC and AAAI workshop. 
 
-I am very interested in neuroscience and deep learning. My long-term research goal is to build a simpler, faster, and more accutate wearable BCI using AI! 
+I am very interested in human-centric AI with neuroscience and deep learning. My long-term research goal is to build a simpler, faster, and more accutate wearable BCI! 
 
 
