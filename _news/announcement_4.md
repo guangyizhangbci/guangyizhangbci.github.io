@@ -1,1 +1,1 @@
-I finally accepted the post-doctoral offer from University of Toronto! I plan to continue working on deep learning, developing cutting-edge AI approaches for cancer research using genomics data. I will mainly work at labortories at University Health Network.
+I finally accepted the post-doctoral offer from University of Toronto! I plan to continue working on deep learning, developing cutting-edge AI approaches for cancer research using genomics data. I will conduct my reasearch at labortories in University Health Network.
